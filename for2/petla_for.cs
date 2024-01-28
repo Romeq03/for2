@@ -12,6 +12,6 @@ class Program
             Console.WriteLine($"Dla x = {x}, y = {y}");
         }
 
-        Console.ReadLine(); // Zatrzymuje konsolę przed zamknięciem
+        Console.ReadLine();
     }
 }
