@@ -1,0 +1,15 @@
+/Users/bartekromek/wsb/for2/for2/bin/Debug/net8.0/for2
+/Users/bartekromek/wsb/for2/for2/bin/Debug/net8.0/for2.deps.json
+/Users/bartekromek/wsb/for2/for2/bin/Debug/net8.0/for2.runtimeconfig.json
+/Users/bartekromek/wsb/for2/for2/bin/Debug/net8.0/for2.dll
+/Users/bartekromek/wsb/for2/for2/bin/Debug/net8.0/for2.pdb
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.AssemblyInfo.cs
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.sourcelink.json
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.dll
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/refint/for2.dll
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.pdb
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/for2.genruntimeconfig.cache
+/Users/bartekromek/wsb/for2/for2/obj/Debug/net8.0/ref/for2.dll
